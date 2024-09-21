@@ -30,4 +30,4 @@ I am centered!
   border: 1px solid red;
 }
 ```
-**OUTPUT-** ![App Screenshot](https://images.app.goo.gl/QPvtVX3YrZT8StvY8)
+**OUTPUT-** ![App Screenshot](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Center_an_element/cookbook-center.png)
